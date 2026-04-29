@@ -5,7 +5,7 @@ on:
     branches: [main]
 
 env:
-  REGION: asia-southeast2
+  REGION: asia-southeast1
   SERVICE_NAME: my-app-service
   IMAGE_NAME: pso
 
